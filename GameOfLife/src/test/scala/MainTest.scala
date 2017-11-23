@@ -11,6 +11,7 @@ https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 import org.scalatest.FunSuite
 import org.scalatest.BeforeAndAfter
+
 class MainTest extends FunSuite with BeforeAndAfter {
 
   var cell=new Cell(true)
