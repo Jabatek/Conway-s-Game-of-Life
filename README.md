@@ -1,4 +1,4 @@
-# Conway-s-Game-of-Life (TDD) https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+# Conway-s-Game-of-Life (TDD Implementation) https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
  Software Craftsmanship Casablanca : https://www.meetup.com/Software-Crafts-wo-manship-Casablanca
  
